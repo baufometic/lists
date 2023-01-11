@@ -3,5 +3,17 @@
 	"description": "lists",
 	"author": "Peter Papasavvas <peter@techandtribal.com> (https://techandtribal.com)",
 	"version": "1.0.0",
-	"private": true
+	"private": false,
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/baufometic/lists.git"
+	},
+	"bugs": {
+		"url": "https://github.com/baufometic/lists/issues"
+	},
+	"homepage": "https://github.com/baufometic/lists#readme"
 }
